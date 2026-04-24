@@ -1,5 +1,5 @@
-import os,sys,json,ollama  
-SECRET_KEY = "hardcoded_secret_12345"  # security issue
+import os,sys,json,ollama
+SECRET_KEY = "hardcoded_secret_12345"
 
 global_var = []
 
