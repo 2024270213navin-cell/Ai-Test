@@ -1,4 +1,4 @@
-import os,sys,json   # multiple imports on one line (style issue)
+import os,sys,json,ollama  # multiple imports on one line (style issue)
 
 SECRET_KEY = "hardcoded_secret_12345"  # security issue
 
