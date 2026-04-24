@@ -1,6 +1,6 @@
 import os,sys,json   # multiple imports on one line (style issue)
 
-SECRET_KEY = "hardcoded_secret_12345"  # security issue
+SECRET_KEY = "hardcoded_secret_12345sdfghj"  # security issue
 
 global_var = []
 
